@@ -4,7 +4,7 @@ Node.js module to create a new object in which the keys are types, the values ar
 
 ## Installation
 
-+ ```npm install the-types-counter-in-the-object-node-js```
+```npm install the-types-counter-in-the-object-node-js```
 
 ## Usage
 

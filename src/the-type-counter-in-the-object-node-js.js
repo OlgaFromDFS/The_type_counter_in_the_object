@@ -27,5 +27,5 @@ function createObjectOfType(object) {
         }
     }
     
-    return newObjectFromTypeAndQuantity;
+    return newObjectFromTypeAndQuantity; 
 };

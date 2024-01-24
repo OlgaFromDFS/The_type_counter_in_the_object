@@ -11,7 +11,7 @@ Node.js module to create a new object in which the keys are types, the values ar
 <script>
 
   /*
-      Import the module.
+      Import the module. 
   */
   const theTypeCounterInTheObject = require('./the_type_counter_in_the_object.js');
 

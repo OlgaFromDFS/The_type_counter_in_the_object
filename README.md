@@ -4,31 +4,31 @@ Node.js module to create a new object in which the keys are types, the values ar
 
 ## Installation
 
-```npm install the-types-counter-in-the-object-node-js```
+```
+npm install the-types-counter-in-the-object-node-js
+```
 
 ## Usage
 
-<script>
+Import the module.
 
-  /*
-      Import the module. 
-  */
-  ```const theTypesCounterInTheObject = require('./the_types_counter_in_the_object.js');```
+```js
+const theTypesCounterInTheObject = require('./the_types_counter_in_the_object.js');
+```
 
-  /*
-      Use the module according to the instructions.
-      Create a variable. Write to it, through a dot from the "module", a function (createObjectOfType(object)) with an object argument that creates a new object with types and their number.
-  */
+ 
+Use the module according to the instructions.
+Create a variable. Write to it, through a dot from the "module", a function (createObjectOfType(object)) with an object argument that creates a new object with types and their number.
 
-  ```const result = theTypesCounterInTheObject.createObjectOfTypes({ field: undefined, anotherField: [], yetAnother: [undefined] });```
+```js
+const result = theTypesCounterInTheObject.createObjectOfTypes({ field: undefined, anotherField: [], yetAnother: [undefined] });
+```
 
-  /*
-      Output/use the result, for example, to the console.
-  */
+Output/use the result, for example, to the console.
 
-  ```console.log(result);```
-
-</script>
+```js
+console.log(result);
+```
 
 ## License
 

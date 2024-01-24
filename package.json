@@ -9,12 +9,12 @@
   "author": {
   "name": "OlgaFromDFS",
   "email": "oluaribalka@yandex.ru",
-  "repository": "https://github.com/OlgaFromDFS",
+  "repository": "https://github.com/OlgaFromDFS"
   },
   "license": "MIT",
   "files": [
     "the-types-counter-in-the-object-node-js.js",
-    "README.md",
+    "README.md"
   ],
   "keywords": [
     "node.js",
@@ -22,6 +22,6 @@
     "objects",
     "type counter",
     "types of values in an object",
-    "object types", 
-  ],
+    "object types"
+  ]
 }

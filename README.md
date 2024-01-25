@@ -16,7 +16,6 @@ Import the module.
 const typesCounterInTheObject = require('types-counter-in-the-object-node-js');
 ```
 
- 
 Use the module according to the instructions.
 Create a variable. Write to it, through a dot from the "module", a function (createObjectOfType(object)) with an object argument that creates a new object with types and their number.
 

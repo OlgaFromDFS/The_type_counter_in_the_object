@@ -1,6 +1,6 @@
 {
   "name": "types-counter-in-the-object-node-js",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "node.js module to create a new object in which the keys are types, the values are the number of these types",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

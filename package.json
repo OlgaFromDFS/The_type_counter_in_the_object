@@ -1,11 +1,11 @@
 {
-  "name": "the-types-counter-in-the-object-node-js",
-  "version": "1.0.1",
+  "name": "types-counter-in-the-object-node-js",
+  "version": "1.0.2",
   "description": "node.js module to create a new object in which the keys are types, the values are the number of these types",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "main": "src/the-types-counter-in-the-object-node-js.js",
+  "main": "src/types-counter-in-the-object-node-js.js",
   "author": {
     "name": "OlgaFromDFS",
     "email": "oluaribalka@yandex.ru",
@@ -13,18 +13,15 @@
   },
   "license": "MIT",
   "files": [
-    "the-types-counter-in-the-object-node-js.js",
+    "types-counter-in-the-object-node-js.js",
     "README.md"
   ],
   "keywords": [
     "node.js",
     "types",
     "objects",
-    "type counter",
+    "types counter",
     "types of values in an object",
     "object types"
-  ],
-  "dependencies": {
-    "the-types-counter-in-the-object-node-js": "^1.0.0"
-  }
+  ]
 }
